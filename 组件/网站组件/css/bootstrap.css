@@ -20,17 +20,15 @@ li {
 }
 @media only screen and (max-width: 768px) {
     a { 
-		display: none; 
-		text-align: center;
-		}
+	display: none; 
+	text-align: center;
+	}
     }
 @media only screen and (min-width: 767px) {
     .phone {
-			display: none; 
-			text-align: center;
-			color: dimgray;
-		    margin-top:10px;
-		}
+		display: none; 
+		text-align: center;
+	}
     }
 body {
   margin: 0;
