@@ -22,14 +22,14 @@ li {
     .pc { 
 	display: none; 
 	text-align: center;
-	}
-    }
+}
+}
 @media only screen and (min-width: 767px) {
     .phone {
-		display: none; 
-		text-align: center;
-	}
-    }
+	display: none; 
+	text-align: center;
+}
+}
 body {
   margin: 0;
 }
