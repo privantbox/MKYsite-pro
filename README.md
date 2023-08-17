@@ -1,9 +1,6 @@
 # MKYsite-pro
 ## 说明:
 ##### 这是一个HTML初学者的小作品:表情包图片集
-## 网站:
-### NO.1->https://mkysite.4everland.app (推荐国内使用)
-### NO.2->https://cutemky.github.io (推荐国外使用)
 ## 新版特征:
 ### 外在:
 #### 1、排版更加美观,使用jqurey脚本库+bookstrap框架的动态页面,更新图片查看器元素;
